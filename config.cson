@@ -1,0 +1,13 @@
+"*":
+  core:
+    themes: [
+      "nucleus-dark-ui"
+      "atom-material-syntax"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "61ceb566-4ea6-7cef-ba1f-bff95028e478"
+  "markdown-preview":
+    useGitHubStyle: true
+  welcome:
+    showOnStartup: false
